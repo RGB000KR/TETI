@@ -10,3 +10,6 @@ By extending the separating axis theorem (SAT) for triangle-triangle intersectio
 **Output:**
 - isAdjacent: Boolean indicating whether the meshes are adjacent.
 - time: The time taken for collision detection.
+
+**Paper:**
+- Preprint: Jang, S., Lee, G., Park, M., Lee, J., Suh, S., & Koo, B. Semantic Elaboration: Inferencing Functional Requirements of BIM Objects. Available at SSRN 4921431.
