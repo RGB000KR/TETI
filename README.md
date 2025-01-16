@@ -12,4 +12,4 @@ By extending the separating axis theorem (SAT) for triangle-triangle intersectio
 - time: The time taken for collision detection.
 
 **Paper:**
-- Preprint: Jang, S., Lee, G., Park, M., Lee, J., Suh, S., & Koo, B. Semantic Elaboration: Inferencing Functional Requirements of BIM Objects. Available at SSRN 4921431.
+- Journal paper: Jang, S., Lee, G., Park, M., Lee, J., Suh, S., & Koo, B. (2025). Semantic elaboration of low-LOD BIMs: Inferring functional requirements using graph neural networks. Advanced Engineering Informatics, 64, 103100. https://doi.org/10.1016/j.aei.2024.103100
